@@ -1,0 +1,19 @@
+Algoritmo "URNA"
+
+Var
+// Seção de Declarações das variáveis
+   numeroCand1: inteiro
+   numeroCand2: inteiro
+   numeroCand3: inteiro
+   nomeCand1: caractere
+   nomeCand2: caractere
+   nomeCand3: caractere
+   contCand1: inteiro
+   contCand2: inteiro
+   contCand3: inteiro
+   contBranco: inteiro
+   contNulo: inteiro
+   i: inteiro
+   voto: inteiro
+   resposta: caracter
+   resposta2: caracter
